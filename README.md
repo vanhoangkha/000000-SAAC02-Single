@@ -1,40 +1,17 @@
-# SAAC02 Single
+# 📖 SAA-C02 Single Domain Guide
 
-AWS Workshop - SAAC02 Single
+Focused study guide for individual domains of the AWS SAA-C02 certification.
 
-## Overview
+## Contents
 
-This repository contains hands-on lab materials for learning AWS services and best practices.
-
-## Prerequisites
-
-- AWS Account
-- Basic understanding of cloud computing
-- AWS CLI installed (optional)
-
-## Getting Started
-
-Follow the instructions in the workshop guide to complete the lab exercises.
-
-## Topics
-
-- AWS
-- Cloud Computing
-- Hands-on Lab
+- Domain-specific study materials
+- Targeted practice questions
+- Key concepts summary
 
 ## Author
 
-**Kha Van Hoang**
-- Senior Cloud Security Engineer
-- AWS Community Leader
-- Co-Founder, Viet AWS
+**Van Hoang Kha** — Cloud Security Engineer | AWS Community Builder
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Email: khavan.work@gmail.com
-- LinkedIn: [linkedin.com/in/vanhoangkha](https://linkedin.com/in/vanhoangkha)
-- GitHub: [github.com/vanhoangkha](https://github.com/vanhoangkha)
