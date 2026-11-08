@@ -1,4 +1,4 @@
-# 📖 SAA-C02 Single Domain Guide
+# SAA-C02 Single Domain Guide
 
 Focused study guide for individual domains of the AWS SAA-C02 certification.
 
